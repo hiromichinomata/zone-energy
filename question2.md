@@ -51,5 +51,6 @@ https://mh-procon.zone-energy.jp/story2/
 素数の数を求めてください。
 
 ```
+108
 ```
 
